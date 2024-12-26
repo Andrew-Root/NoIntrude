@@ -36,7 +36,7 @@ Built with Tkinter for GUI and Scapy for packet sniffing, this tool is perfect f
   * Scapy
   * ipwhois
 
-# Installation
+## Installation
 
 `pip install scapy ipwhois`
 
